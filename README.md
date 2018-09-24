@@ -1,6 +1,4 @@
 # TrainSchedules
 Homework Week 7 
 
-
-AG 9/20
-For now the assignment is unfinished. I am going to combine the syntax from activity 21 and the firebase/front end from activity 17. 
+This assignment displays my understanding of both the moment() library for times, and the use of firebase for realtime database storage. 
